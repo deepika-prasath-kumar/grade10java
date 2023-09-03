@@ -1,1 +1,1 @@
-# perfectnos to find perfect numbers
+# jan to sep practise programs
